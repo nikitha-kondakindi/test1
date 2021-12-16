@@ -8,7 +8,7 @@ public class Test1Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Test1Application.class, args);
-		System.out.println(" this  is In master");
+		System.out.println("In master");
 	}
 
 }
